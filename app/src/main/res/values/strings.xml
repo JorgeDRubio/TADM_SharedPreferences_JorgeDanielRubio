@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TADM_SharedPreferences_JorgeDanielRubio</string>
+    <string-array name="signos">
+        <item>Geminis</item>
+        <item>Sagitario</item>
+        <item>Tauro</item>
+        <item>Libra</item>
+        <item>Cancer</item>
+        <item>Escorpion</item>
+        <item>Leo</item>
+        <item>Capricornio</item>
+    </string-array>
+</resources>
